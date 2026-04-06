@@ -1,5 +1,6 @@
 # RESOLUSI NITA 2026
 ## SAYA ADALAH PELAJAR YAG IGI BERKEMBANG
+
  -Belajar coding dasar
  -Menguasai github
  -Lebih rajin belajar
