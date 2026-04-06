@@ -1,7 +1,5 @@
 # RESOLUSI NITA 2026
-
-* SAYA ADALAH PELAJAR YANG INGIN TERUS BERKEMBANG
- RESOLUSI SAYA 2026:
+## SAYA ADALAH PELAJAR YAG IGI BERKEMBANG
  -Belajar coding dasar
  -Menguasai github
  -Lebih rajin belajar
@@ -10,11 +8,11 @@
  -Tidak menunda tugas dari guru
  -Menjadi pribadi yang lebih baik
 
-* PENGEMBANGAN DIRI
+## PENGEMBANGAN DIRI
  -lebih mandiri dalam menyelesaikan tugas
  -berani mencoba hal baru
 
- *HARAPAN SAYA
+ ## HARAPAN SAYA
 - saya berharap ditahun 2026 saya bisa bisa menjadi pribadi yang lebih baik
  
 
